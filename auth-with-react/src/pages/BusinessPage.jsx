@@ -6,7 +6,7 @@ export default function BusinessPage() {
         <>
             <h1>Welcome to the business page</h1>
 
-            <h2>Ayush dahal le 500 ma chak bechyo re ta</h2>
+            <h2>Fuck you guys</h2>
         </>
     )
 }
